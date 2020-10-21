@@ -1,0 +1,44 @@
+{
+    "IM2BOX" : [
+        {
+            "Timestamp": "2020-09-30 09:11:12",
+            "Model": "FCS-HT",
+            "Machine_ID": "J9L11731",
+            "Machine_Status" : "Run",
+            "AlarmMsg": "NULL",
+            "TempData" : [
+                200.0,
+                201.1,
+                200.9,
+                200.1,
+                201.1
+            ],
+            "JobData": {
+                "JobName": "TD_12345",
+                "CycleTime": 10,
+                "TotalCounter": 0,
+                "BadCounter":0,
+                "CycleQuality": "Good"
+            },
+            "CycleData": {
+                "LastTime" :[
+                    0.0,
+                    10.0,
+                    20.0,
+                    30.0,
+                    40.0,
+                    50.0,
+                    60.0,
+                    70.0,
+                    80.0
+                ],
+                "LastPosition": [
+                    10.0,
+                    20.0,
+                    30.0,
+                    40.0
+                ]
+            }
+        }
+    ]
+}
